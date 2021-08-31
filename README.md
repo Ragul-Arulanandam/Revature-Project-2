@@ -2,16 +2,16 @@
 
 ## Digital Kitchen
 
-
-It is an Web application build on Java, JPA , JSP  and SQL technologies.
+It is an Web application build on Java, JPA , Angular(HTML,CSS,TypeScript)  and MongoDB technologies.
 - Build with maven.
 - Used design pattern for best practice and performance.
-- Using JPA the database is connect with the java.
-- sql is used to store the data retreived from the application
-- JSP pages are used to display the html code in web browser. 
-- Tomcat server is used run the application.
+- And also maintained code modularity using Single Responsibility.
+- The front end part is made with Angular with an Component architecture
+- MongoDB is used to store the data retreived from the application
+- The Angular is used to display the application in browser view. 
+- Intelligeie IDE is used to run the application.
 
-##Stack 
+## Stack 
 - Front-End 
       -Angular 
 - Back-End
